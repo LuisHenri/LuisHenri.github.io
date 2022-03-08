@@ -10,6 +10,10 @@ I started coding at the beginning of my course (2017). I began with C, moved on 
 
 ## ⚠️ This thing here is under construction!!! ⚠️
 
+- [ ] Add a link to my Templates
+- [ ] Add a link to my Dev Guidelines
+- [ ] Add links to my Projects/Repos
+
 ---
 
 By the way, my name is Luís Henrique, and I'm 22. :)
